@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/images/cover1.jpg",
+      "title": "Exploring the Wonders of Nature",
+      "author": "Amelia Evans",
+      "author_img": "https://example.com/images/authors/amelia.jpg",
+      "posted_date": "2024-10-25",
+      "reading_time": 7,
+      "hashtags": ["#nature", "#explore", "#travel", "#photography"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/images/cover2.jpg",
+      "title": "The Art of Minimalist Living",
+      "author": "James Walker",
+      "author_img": "https://example.com/images/authors/james.jpg",
+      "posted_date": "2024-10-20",
+      "reading_time": 5,
+      "hashtags": ["#minimalism", "#lifestyle", "#simplicity", "#design"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/images/cover3.jpg",
+      "title": "A Guide to Personal Finance",
+      "author": "Sophia Lewis",
+      "author_img": "https://example.com/images/authors/sophia.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 8,
+      "hashtags": ["#finance", "#budgeting", "#savings", "#moneytips"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/images/cover4.jpg",
+      "title": "Understanding Artificial Intelligence",
+      "author": "Liam Patel",
+      "author_img": "https://example.com/images/authors/liam.jpg",
+      "posted_date": "2024-08-30",
+      "reading_time": 6,
+      "hashtags": ["#AI", "#technology", "#future", "#innovation"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/images/cover5.jpg",
+      "title": "Healthy Eating on a Budget",
+      "author": "Olivia Brown",
+      "author_img": "https://example.com/images/authors/olivia.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": 4,
+      "hashtags": ["#health", "#nutrition", "#budget", "#wellness"]
+    }
+  ]
+  
